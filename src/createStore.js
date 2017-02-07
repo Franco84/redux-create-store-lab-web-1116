@@ -14,9 +14,5 @@ export default function createStore(reducer){
  return {dispatch: dispatch, getState: getState}
 }
 
-// solution
-// export default function createStore(reducer){
-// }
-
 function render(){
 }
